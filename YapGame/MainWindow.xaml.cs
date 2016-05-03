@@ -20,6 +20,9 @@ namespace YapGame
     /// </summary>
     public partial class MainWindow : Window
     {
+        /// <summary>
+        /// Tmp Comment
+        /// </summary>
         public MainWindow()
         {
             InitializeComponent();
