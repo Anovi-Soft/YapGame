@@ -25,6 +25,7 @@ namespace YapGame
         /// </summary>
         public MainWindow()
         {
+            // Some text
             InitializeComponent();
         }
     }
